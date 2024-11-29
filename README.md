@@ -41,4 +41,20 @@ This will be a MERN project, so we will be utilising the following tech stack:
 
 ## User Stories
 
+User stories are created to ensure that the features we develop within our app serve a purpose and that this purpose is understood across the whole development team. This ensure that everything is tailored to solve issues that we expect users of our app to encounter. 
+
+Below are some user stories provided to cover use cases from the perspective of a customer and an admin in relation to our key app features which include:
+
+- A static and rotational menu
+- Personal account login
+- Placing an order with pre-defined customised options
+- Free-text communication for updates on placed orders
+
+### Customer
+
+- As a customer, I want to be able to view the full static and rotational menu, so that I can decide what I want to order
+- As a customer, I want to be able to create an account, so that I can review my existing/previous orders
+- As a customer, I want to be able to fully customise my order, so that it can match a specific theme for my event
+- As a customer, I want to be able to communcate directly with the service team so that I can update my order when and if necessary.
+
 
