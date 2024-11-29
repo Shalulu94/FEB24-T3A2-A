@@ -55,6 +55,15 @@ Below are some user stories provided to cover use cases from the perspective of 
 - As a customer, I want to be able to view the full static and rotational menu, so that I can decide what I want to order
 - As a customer, I want to be able to create an account, so that I can review my existing/previous orders
 - As a customer, I want to be able to fully customise my order, so that it can match a specific theme for my event
-- As a customer, I want to be able to communcate directly with the service team so that I can update my order when and if necessary.
+- As a customer, I want to be able to communicate directly with the service team so that I can update my order when and if necessary.
+- As a customer, I want to be able to update my profile details incase something changes such as my address
+
+### Admin
+
+- As an admin, I want to be able to update my menu to include any seasonal or promotional changes
+- As an amin, I want to be able to view all placed customer orders to help me keep track of what needs to be delivered
+- As an admin, I want to be able to communicate with customers directly incase I require additional information to meet their customisation requests
+- As an admin I want to be able to update order status to effectively manage my deliveries
+
 
 
