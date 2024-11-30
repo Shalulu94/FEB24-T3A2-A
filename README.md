@@ -65,5 +65,51 @@ Below are some user stories provided to cover use cases from the perspective of 
 - As an admin, I want to be able to communicate with customers directly incase I require additional information to meet their customisation requests
 - As an admin I want to be able to update order status to effectively manage my deliveries
 
+## Wireframes
+
+I have creted a view for the pages on my web app, starting with MVP pages which are required for the key feature of a customer placing an order to Salzy Cakes.
+
+#### Home Page
+
+![homepage photo](/docs/Homepage.PNG) 
+
+Landing page for all users. This will provide highlights on seasonal menu and information about the business in text
+
+#### Login
+
+![Login page](/docs/Login.PNG)
+
+Login page to login to an existing account or register for a new account
+
+#### Products
+
+![products page](/docs/menu.PNG)
+
+products page with full overview of menu
+
+#### Products - Ordering
+
+![Ordering](/docs/Product.PNG)
+
+Specific product page to place order
+
+#### Contact 
+
+![Contact us](/docs/Contact.PNG)
+
+Contact page including social media links. Also will include a comms free text box to allow customers to send customised messages
+
+## Trello Board
+
+To manage the tasks within this project, I will be using a Trello board to track tasks and monitor completion of these tasks. 
+
+You can access my Trello board [Here](https://trello.com/b/dS3Sozzf/salzy-cakes)
+
+![Trello1](/docs/Trello1.PNG)
+
+![Trello2](/docs/trello2.PNG)
+
+![Trello3](/docs/trello3.PNG)
+
 
 
