@@ -99,6 +99,10 @@ Specific product page to place order
 
 Contact page including social media links. Also will include a comms free text box to allow customers to send customised messages
 
+## Application Architecture Diagram
+
+![Applcation Architecure Diagram](./docs/AAD.PNG)
+
 ## Trello Board
 
 To manage the tasks within this project, I will be using a Trello board to track tasks and monitor completion of these tasks. 
